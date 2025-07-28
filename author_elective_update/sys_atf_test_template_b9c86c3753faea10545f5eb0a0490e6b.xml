@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
+    <sys_atf_test_template action="DELETE">
+        <description/>
+        <name>When needed - Past</name>
+        <sys_class_name>sys_atf_test_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 08:20:24</sys_created_on>
+        <sys_id>b9c86c3753faea10545f5eb0a0490e6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed - Past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_template_b9c86c3753faea10545f5eb0a0490e6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 08:20:24</sys_updated_on>
+        <template>d9bc5f21ff6033008d3f5d9ad53bf12d,14872288df60220062fe6c7a4df26319,1f39a288df60220062fe6c7a4df2639d,58ab71985f30220012b44adb7f46661e</template>
+    </sys_atf_test_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>25b3acd53bf1ea94a36804e0b5e45acd</instance_id>
+        <instance_name>dev350671</instance_name>
+        <name>sys_atf_test_template_b9c86c3753faea10545f5eb0a0490e6b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template"><sys_atf_test_template action="INSERT_OR_UPDATE"><description/><name>When needed - Past</name><sys_class_name>sys_atf_test_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-24 08:20:24</sys_created_on><sys_id>b9c86c3753faea10545f5eb0a0490e6b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>When needed - Past</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_template_b9c86c3753faea10545f5eb0a0490e6b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-24 08:20:24</sys_updated_on><template>d9bc5f21ff6033008d3f5d9ad53bf12d,14872288df60220062fe6c7a4df26319,1f39a288df60220062fe6c7a4df2639d,58ab71985f30220012b44adb7f46661e</template></sys_atf_test_template></record_update>]]></payload>
+        <payload_hash>696875312</payload_hash>
+        <record_name>When needed - Past</record_name>
+        <reverted_from/>
+        <source>494860735382a650545f5eb0a0490e4b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 08:20:24</sys_created_on>
+        <sys_id>e45928f753faea10545f5eb0a0490e98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1983b84ef5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 08:20:24</sys_updated_on>
+        <type>Test Template</type>
+        <update_guid>e85928f732faea101e0877c8aa6ca197</update_guid>
+        <update_guid_history>e85928f732faea101e0877c8aa6ca197:696875312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-24 08:21:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_template">sys_atf_test_template</sys_db_object>
+        <sys_id>07fd051b26e34c679b26b00a2d5193c1</sys_id>
+        <sys_metadata>b9c86c3753faea10545f5eb0a0490e6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed - Past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_template_b9c86c3753faea10545f5eb0a0490e6b</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_template_b9c86c3753faea10545f5eb0a0490e6b">e45928f753faea10545f5eb0a0490e98</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-24 08:21:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
